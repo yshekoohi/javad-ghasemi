@@ -1,5 +1,5 @@
-site_name: "مهندس وحید ثابتیان"
-site_url: https://yshekoohi.github.io/sabetian/
+site_name: "مهندس جواد قاسمی"
+site_url: https://yshekoohi.github.io/javad-ghasemi/
 repo_url: ""
 theme:
   logo: false
@@ -63,13 +63,12 @@ extra_javascript:
 
 extra:
   generator: false
-  homepage: https://yshekoohi.github.io/sabetian/
+  homepage: https://yshekoohi.github.io/javad-ghasemi/
 
 
 
 nav:
   - "مشخصات فردی": index.md
   - "سوابق کاری": work-experience.md
-  - "سوابق آموزشی": training-courses.md
   - "گواهینامه‌ها": certificates.md
   - "مهارت‌ها": skilles.md

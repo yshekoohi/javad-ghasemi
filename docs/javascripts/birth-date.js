@@ -3,7 +3,7 @@
 function renderBirthDate() {
   const el = document.getElementById("birth-date");
   if (!el) return; 
-  const birthDate = new Date("1985-08-25T12:00:00");
+  const birthDate = new Date("1980-11-26T12:00:00");
 
   const today = new Date();
 

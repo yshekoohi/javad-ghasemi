@@ -21,7 +21,7 @@ hide:
     </tr>
     <tr>
       <th>تحصیلات</th>
-      <td>کارشناسی مهندسی بهداشت حرفه‌ای (دانشگاه علوم پزشکی تهران)</td>
+      <td>کارشناسی HSE (دانشگاه علمی-کاربردی منطقه ویژه سلفچگان)</td>
     </tr>
     <tr>
       <th>وضعیت نظام وظیفه</th>
@@ -30,18 +30,18 @@ hide:
     <tr>
       <th>تلفن</th>
       <td tel>
-        ۰۹۳۹۲۱۸۱۶۰۴
+        ۰۳۸۵۶۳۶۳۹۳
         -
-        ۰۹۱۷۹۸۳۲۹۶۱
+        ۰۹۱۲۷۵۸۱۷۸۸
       </td>
     </tr>
     <tr>
       <th>ایمیل</th>
-      <td>vahid.sabetian@gmail.com</td>
+      <td>javadqasemi78@gmail.com</td>
     </tr>
     <tr>
       <th>آدرس</th>
-      <td>بندرعباس – چهار راه قدس – کوچه شهید محمدیان</td>
+      <td>قم - شرکت سیمان نیزار قم</td>
     </tr>
   </table>
 </div>
@@ -49,13 +49,13 @@ hide:
 
 <div class="hero-profile" markdown>
 
-<div class="profile-photo" role="img" aria-label="تصویر وحید ثابتیان"></div>
+<div class="profile-photo" role="img" aria-label="تصویر جواد قاسمی"></div>
 
-**مهندس وحید ثابتیان**
+**مهندس جواد قاسمی**
 
-کارشناس بهداشت حرفه‌ای و ایمنی کار
+کارشناس HSE
 
-:material-map-marker: بندرعباس
+:material-map-marker: قم
 { .profile-meta }
 
 
@@ -75,13 +75,13 @@ hide:
 
     [](work-experience.md)
 
--   :material-school:{ .md .middle } **آموزش**
+-   :material-school:{ .md .middle } **مهارت‌ها**
 
     ---
 
-    مدرس دوره‌های آموزشی ایمنی و بهداشت
+    مهارت‌های تخصصی و عمومی
 
-    [](training-courses.md)
+    [](skills.md)
 
 -   :material-certificate:{ .md .middle } **گواهینامه‌ها**
 
